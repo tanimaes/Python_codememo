@@ -1,7 +1,7 @@
 # 形態解析.
 # 2022-06-29
 
-# virtualenv -p python3.9 pyenv
+# virtualenv -p python3.9 pyenv39
 # source [venv]/bin/activate
 # pip install numpy pandas matplotlib opencv-python scikit-image
 
